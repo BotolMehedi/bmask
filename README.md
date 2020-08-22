@@ -45,6 +45,11 @@ $ python2 bmask.py
 * Twitter : [Follow Me](https://www.twitter.com/botolbaba)
 * GitHub : [Follow Me](https://www.github.com/botolmehedi)
 
+## ***THANKS TO***
+* STEVEN STRANGE
+* VAIBA TUSLI
+* A4J6N R06
+
 ### Warning
 
 ***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
